@@ -32,7 +32,7 @@ I'm currently focused on:
 - <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20"/> C  
 - <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="20"/> C++  
 - <img src="https://cdn.simpleicons.org/lua/2C2D72" width="20"/> Lua  
-- <img src="https://cdn.simpleicons.org/java/007396" width="20"/> Java
+- <img src="https://cdn.simpleicons.org/openjdk/007396" width="20"/> Java
 
 ---
 
