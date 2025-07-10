@@ -5,6 +5,8 @@ I'm currently focused on:
 - 🤖 AI/ML  
 - 🌐 Full-stack development  
 - 🧵 Systems programming
+- 🧩 Data Structures & Algorithms
+- 🏗️ System Design
 
 ---
 
@@ -36,5 +38,4 @@ I'm currently focused on:
 
 ### 🛠️ Projects and Contributions
 
-Check my pinned repositories below for recent work.
-
+coming soon...
