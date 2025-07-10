@@ -23,7 +23,6 @@ I'm currently focused on:
 - <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="20"/> PyTorch  
 - <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="20"/> Scikit-learn
 
----
 
 **Languages**
 
