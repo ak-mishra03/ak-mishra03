@@ -14,64 +14,27 @@ I'm currently focused on:
 
 #### Frameworks & Tools
 
-<table>
-  <tr>
-    <td style="background-color:#f0f0f0;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/django/092E20" width="20"/> Django
-    </td>
-    <td style="background-color:#fce9e7;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/django/EE3C31" width="20"/> DRF
-    </td>
-    <td style="background-color:#e0f4f3;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/fastapi/009688" width="20"/> FastAPI
-    </td>
-    <td style="background-color:#e0f7ff;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" width="20"/> React
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#e7eef6;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/postgresql/336791" width="20"/> PostgreSQL
-    </td>
-    <td style="background-color:#fff0e5;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> TensorFlow
-    </td>
-    <td style="background-color:#ffeaea;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="20"/> PyTorch
-    </td>
-    <td style="background-color:#fff4e8;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="20"/> Scikit-learn
-    </td>
-  </tr>
-</table>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-EE3C31?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
-#### Languages
+---
 
-<table>
-  <tr>
-    <td style="background-color:#e8effa;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Python
-    </td>
-    <td style="background-color:#fffbe6;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20"/> JavaScript
-    </td>
-    <td style="background-color:#f0f5fa;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20"/> C
-    </td>
-    <td style="background-color:#e5f2fa;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="20"/> C++
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#e8e9f8;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/lua/2C2D72" width="20"/> Lua
-    </td>
-    <td style="background-color:#e1edf5;padding:8px;border-radius:8px;">
-      <img src="https://cdn.simpleicons.org/openjdk/007396" width="20"/> Java
-    </td>
-  </tr>
-</table>
+### 🧑‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ---
 
